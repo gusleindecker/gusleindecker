@@ -7,7 +7,7 @@ I'm Gustavo Leindecker! I design and develop user interfaces for web and mobile 
 - 📫 How to reach me: [![Twitter](https://img.shields.io/badge/-Twitter-2693ff?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/gustalp)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-2693ff?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gusleindecker/)](https://www.linkedin.com/in/gusleindecker/)
 
-![gusleindecker github stats](https://github-readme-stats.vercel.app/api?username=gusleindecker&show_icons=true&title_color=fff&icon_color=FFCC00&text_color=9f9f9f&bg_color=151515)
+![gusleindecker github stats](https://github-readme-stats.vercel.app/api?username=gusleindecker&show_icons=true&title_color=fff&icon_color=2693ff&text_color=9f9f9f&bg_color=222222)
 
 <!--
 **gusleindecker/gusleindecker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
