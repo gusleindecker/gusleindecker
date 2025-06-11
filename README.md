@@ -1,8 +1,12 @@
 ## Hi there 👋
 
-I'm Gustavo Leindecker! I design and develop user interfaces for web and mobile applications.
+I'm a Senior Frontend Engineer focused on building fast, intuitive, and scalable user interfaces. With deep expertise in Vue.js, TypeScript, and modern web tech, I turn complex requirements into seamless, responsive experiences that users love.
 
-🔭 I’m currently working at [Number8](https://number8.com/)
+Over the years, I’ve delivered high-performance web and mobile apps across industries, combining clean code with a strong eye for design. I enjoy bridging the gap between technical precision and user needs, always aiming for solutions that are both elegant and practical.
+
+I'm also a lifelong learner, constantly exploring new tools, trends, and best practices to stay ahead in the ever-evolving frontend landscape.
+
+🔭 I’m currently working at [Software Mind](https://softwaremind.com/)
 
 [![Twitter](https://img.shields.io/badge/-Twitter-2693ff?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/gustalp)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-2693ff?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gusleindecker/)
