@@ -1,12 +1,8 @@
 ## Hi there 👋
 
-I'm a Senior Frontend Engineer focused on building fast, intuitive, and scalable user interfaces. With deep expertise in Vue.js, TypeScript, and modern web tech, I turn complex requirements into seamless, responsive experiences that users love.
+I'm a Senior Front-end Engineer with nearly 20 years of experience building modern, user-focused web applications. I work primarily with React, Vue.js, Nuxt, and Next.js, and have led frontend development across multiple teams, built reusable UI libraries, and mentored fellow engineers.
 
-Over the years, I’ve delivered high-performance web and mobile apps across industries, combining clean code with a strong eye for design. I enjoy bridging the gap between technical precision and user needs, always aiming for solutions that are both elegant and practical.
-
-I'm also a lifelong learner, constantly exploring new tools, trends, and best practices to stay ahead in the ever-evolving frontend landscape.
-
-🔭 I’m currently working at [Software Mind](https://softwaremind.com/)
+Beyond code, I'm passionate about UI and motion design—always aiming to create interfaces that feel as good as they look. I'm also a lifelong learner, continually exploring new tools, trends, and best practices to stay sharp in the ever-evolving frontend landscape.
 
 [![Twitter](https://img.shields.io/badge/-Twitter-2693ff?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/gustalp)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-2693ff?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gusleindecker/)
