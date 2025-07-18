@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a Senior Front-end Engineer with nearly 20 years of experience building modern, user-focused web applications. I work primarily with React, Vue.js, Nuxt, and Next.js, and have led frontend development across multiple teams, built reusable UI libraries, and mentored fellow engineers.
+I'm a Senior Front-end Engineer with 17+ years of experience building modern, user-focused web applications. I work primarily with React, Vue.js, Nuxt, and Next.js, and have led frontend development across multiple teams, built reusable UI libraries, and mentored fellow engineers.
 
 Beyond code, I'm passionate about UI and motion design—always aiming to create interfaces that feel as good as they look. I'm also a lifelong learner, continually exploring new tools, trends, and best practices to stay sharp in the ever-evolving frontend landscape.
 
