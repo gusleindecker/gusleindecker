@@ -4,7 +4,7 @@ I'm a **Senior Front-end Engineer & UI/UX Designer** based in Porto Alegre, Braz
 
 I've spent more than 17 years building for the web, from customer-facing websites to complex enterprise applications. My work brings design and engineering together: how an interface looks and feels, how people move through it, and how the code supports it as the product grows. Along the way I've built shared UI libraries, modernized existing applications, and led and mentored developers.
 
-These days I work remotely with teams in the US and Europe and take on freelance projects that combine front-end engineering and UX/UI design. On the side, I build personal projects like [Shiver Text](https://github.com/gusleindecker/shiver-text), a lightweight TypeScript library for glitch-style text reveal animations.
+These days I work remotely with teams in the US and Europe and take on freelance projects that combine front-end engineering and UX/UI design. On the side, I build personal projects. One example is [Shiver Text](https://github.com/gusleindecker/shiver-text), a lightweight TypeScript library for glitch-style text reveal animations.
 
 [![Website](https://img.shields.io/badge/-gusleindecker.dev-2693ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://gusleindecker.dev)
 [![CV](https://img.shields.io/badge/-CV-2693ff?style=for-the-badge&logo=readdotcv&logoColor=white)](https://cv.gusleindecker.dev)
