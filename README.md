@@ -9,7 +9,7 @@ Beyond code, I'm passionate about UI and motion design—always aiming to create
 
 ![gusleindecker github stats](https://github-readme-stats.vercel.app/api?username=gusleindecker&show_icons=true&title_color=fff&icon_color=2693ff&text_color=9f9f9f&bg_color=222222)
 
-![test](https://github-stats-extended.vercel.app/api/top-langs/?username=gusleindecker&show_icons=true&layout=compact")
+![test](https://github-stats-extended.vercel.app/api/top-langs/?username=gusleindecker&show_icons=true&layout=compact)
 
 <!--
 **gusleindecker/gusleindecker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
