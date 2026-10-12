@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**Front-end Engineer & UI Designer** based in Porto Alegre, Brazil. I craft modern web applications mainly using Vue.js, React, Nuxt, Next.js and TypeScript, with a strong focus on user experience, clean code and performance.
+I'm a **Senior Front-end Engineer & UI/UX Designer** based in Porto Alegre, Brazil. I craft modern web applications mainly using Vue.js, React, Nuxt, Next.js and TypeScript, with a strong focus on user experience, clean code and performance.
 
 I've spent more than 17 years building for the web, from customer-facing websites to complex enterprise applications. My work brings design and engineering together: how an interface looks and feels, how people move through it, and how the code supports it as the product grows. Along the way I've built shared UI libraries, modernized existing applications, and led and mentored developers.
 
