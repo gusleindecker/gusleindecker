@@ -7,7 +7,6 @@ I've spent more than 17 years building for the web, from customer-facing website
 These days I work remotely with teams in the US and Europe and take on freelance projects that combine front-end engineering and UX/UI design. On the side, I build personal projects. One example is [Shiver Text](https://github.com/gusleindecker/shiver-text), a lightweight TypeScript library for glitch-style text reveal animations.
 
 [![Website](https://img.shields.io/badge/-gusleindecker.dev-2693ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://gusleindecker.dev)
-[![CV](https://img.shields.io/badge/-CV-2693ff?style=for-the-badge&logo=readdotcv&logoColor=white)](https://cv.gusleindecker.dev)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-2693ff?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gusleindecker/)
 [![X](https://img.shields.io/badge/-X-2693ff?style=for-the-badge&logo=x&logoColor=white)](https://x.com/gustalp)
 [![Medium](https://img.shields.io/badge/-Medium-2693ff?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@gustalp)
