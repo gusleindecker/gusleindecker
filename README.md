@@ -18,6 +18,6 @@ These days I work remotely with teams in the US and Europe and take on freelance
 ![Next.js](https://img.shields.io/badge/Next.js-222222?style=flat-square&logo=nextdotjs&logoColor=white)
 
 <p align="left">
-  <img alt="gusleindecker GitHub stats" height="165" src="https://github-readme-stats.vercel.app/api?username=gusleindecker&show_icons=true&hide_border=true&title_color=fff&icon_color=2693ff&text_color=9f9f9f&bg_color=222222" />
+  <img alt="gusleindecker GitHub stats" height="165" src="https://github-stats-extended.vercel.app/api?username=gusleindecker&show_icons=true&hide_border=true&title_color=fff&icon_color=2693ff&text_color=9f9f9f&bg_color=222222" />
   <img alt="gusleindecker top languages" height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=gusleindecker&layout=compact&hide_border=true&title_color=fff&text_color=9f9f9f&bg_color=222222" />
 </p>
